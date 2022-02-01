@@ -19,7 +19,7 @@ To claim a badge, send an email to:
  > 
  > Subject: Defender for Cloud Masterclass Badge Claim
  > 
- > Body: Provide proof of completing the skills challenge ***URL TBC***, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
+ > Body: Provide proof of completing the skills challenge https://aka.ms/MDCMasterclassP1-CSC, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
 
 Qualified submissions will receive Badge via email
 
@@ -32,3 +32,6 @@ Part I covers cloud security posture management (CSPM):
 5. Leveraging Azure Arc to enable Defender for Cloud across hybrid and multicloud
 6. Better Together - Connecting Microsoft Defender for Cloud to Microsoft Sentinel
 7. Certification and Training
+
+## Labs
+Coming soon
