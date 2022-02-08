@@ -34,6 +34,7 @@ Part I covers cloud security posture management (CSPM):
 7. Certification and Training
 
 ## Labs
+The labs require access to an Azure tenant. Use a non-production subscripition for learning. The CSPM labs should not add additional costs beyond superficial amounts for items like logic apps. The CSPM labs require cloud workload protection features to be enabled, which are not free outside of a trial.
 
 ### Part I
 Part I is about Cloud Security Posture Management (CSPM), so go through the [official Microsoft Defender for Cloud Labs](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs).
