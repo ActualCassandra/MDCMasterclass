@@ -21,7 +21,7 @@ To claim a badge, send an email to:
  > 
  > Body: Provide proof of completing the skills challenge https://aka.ms/MDCMasterclassP1-CSC, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
 
-Qualified submissions will receive Badge via email
+Qualified submissions will receive a Badge via email.
 
 ## Agenda for Part I
 Part I covers cloud security posture management (CSPM):
@@ -34,4 +34,24 @@ Part I covers cloud security posture management (CSPM):
 7. Certification and Training
 
 ## Labs
-Coming soon
+
+### Part I
+Part I is about Cloud Security Posture Management (CSPM), so go through the [official Microsoft Defender for Cloud Labs](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs).
+
+CSPM Labs:
+1. [Preparing the environment](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-1-Preparing-the-Environment.md)
+2. [Exloring Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-2-Exploring-Azure-Security-Center.md)
+3. [Security Policy](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-3-ASC-Security-Policy.md)
+4. [Regulatory Compliance](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-4-Regulatory-Compliance.md)
+5. [Exporting Microsoft Defender for Cloud information to a SIEM](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-7-Exporting-ASC-information-to-a-SIEM.md)
+
+*More tbc*
+
+### Part II
+Part I is about Cloud Workload Protection (CWP), so go through the [official Microsoft Defender for Cloud Labs](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs).
+
+CWP Labs:
+1. [Microsoft Defender Plans](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-6-Azure-Defender.md)
+2. [Enhanced Security](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-8-Advance-Cloud-Defense.md)
+
+*More tbc*
