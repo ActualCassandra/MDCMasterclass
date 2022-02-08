@@ -56,3 +56,9 @@ CWP Labs:
 2. [Enhanced Security](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-8-Advance-Cloud-Defense.md)
 
 *More tbc*
+
+## Learning and Training Resources
+ - [Microsoft Defender for Cloud Ninja Training](http://aka.ms/ascninja)
+ - [Defender for Cloud 'In the Field' Youtube series](https://www.youtube.com/hashtag/mdfcinthefield)
+
+To-be continued...
