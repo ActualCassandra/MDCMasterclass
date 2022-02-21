@@ -2,7 +2,7 @@
 
 Welcome to the Microsoft Defender for Cloud Masterclass repository.
 
-***Part 1 will be Thursday, 03 March 2022. Starting at 1300 GMT!***
+***Part 1 will be in April or May. Starting at 1300 GMT!***
 
 ## Registration Link(s)
 1. Part 1 ***TBC***
