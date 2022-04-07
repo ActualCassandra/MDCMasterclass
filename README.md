@@ -2,7 +2,7 @@
 
 Welcome to the Microsoft Defender for Cloud Masterclass repository.
 
-***Part 1 will be in April or May. Starting at 1300 GMT!***
+***Part 1 will be on May 18. Starting at 1300 GMT!*** Part 2 will be later in the year, after partner feedback on possible deep dive topics.
 
 ## Registration Link(s)
 1. Part 1 ***TBC***
@@ -26,18 +26,17 @@ Qualified submissions will receive a Badge via email.
 ## Agenda for Part I
 Part I covers cloud security posture management (CSPM):
 1. Microsoft Defender for Cloud Overview
-2. Creating and using custom security policies
-3. Using Azure Lighthouse to enable multi-tenant cloud security posture management
-4. The power of automation
-5. Leveraging Azure Arc to enable Defender for Cloud across hybrid and multicloud
-6. Better Together - Connecting Microsoft Defender for Cloud to Microsoft Sentinel
-7. Certification and Training
+2. Using Azure Lighthouse to enable multi-tenant cloud security management
+3. Extending Microsoft Defender for Cloud beyond Azure
+4. Creating and using custom regulatory compliance policies
+5. The power of automation
+6. Certification and Training
 
 ## Labs
-The labs require access to an Azure tenant. Use a non-production subscripition for learning. The CSPM labs should not add additional costs beyond superficial amounts for items like logic apps. The CSPM labs require cloud workload protection features to be enabled, which are not free outside of a trial.
+The labs require access to an Azure tenant as well as GCP and AWS if you wish to try the multicloud integration. There are some small potential costs on AWS and GCP (aside from test VMs etc if you create these), but on the workload protection side if you enable the trial and disable any features you have enabled before the 30 days are up you should be fairly safe.
 
 ### Part I
-Part I is about Cloud Security Posture Management (CSPM), so go through the [official Microsoft Defender for Cloud Labs](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs).
+Start by going  through the [official Microsoft Defender for Cloud Labs](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs), as they cover the big picture.
 
 CSPM Labs:
 1. [Preparing the environment](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-1-Preparing-the-Environment.md)
@@ -45,18 +44,16 @@ CSPM Labs:
 3. [Security Policy](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-3-ASC-Security-Policy.md)
 4. [Regulatory Compliance](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-4-Regulatory-Compliance.md)
 5. Start at Exercise 3. [Improving your secure posture](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-5-Improving-your-Secure-Posture.md#exercise-3-automate-recommendations-with-workflow-automation)
-6. [Exporting Microsoft Defender for Cloud information to a SIEM](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-7-Exporting-ASC-information-to-a-SIEM.md)
-
-*More tbc*
-
-### Part II
-Part I is about Cloud Workload Protection (CWP), so go through the [official Microsoft Defender for Cloud Labs](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs).
 
 CWP Labs:
 1. [Microsoft Defender Plans](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-6-Azure-Defender.md)
 2. [Enhanced Security](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module-8-Advance-Cloud-Defense.md)
 
-*More tbc*
+*Adding multi-cloud links shortly*
+
+### Part II
+Part 2 content is TBC. If you are a partner, reach out with what you would love for us to cover in future sessions using the email address referenced in the "Badges and how to claim" section.
+
 
 ## Learning and Training Resources
  - [Microsoft Defender for Cloud Ninja Training](http://aka.ms/ascninja)
