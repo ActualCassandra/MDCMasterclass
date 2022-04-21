@@ -5,7 +5,7 @@ Welcome to the Microsoft Defender for Cloud Masterclass repository.
 ***Part 1 will be on May 18. Starting at 1300 GMT!*** Part 2 will be later in the year, after partner feedback on possible deep dive topics.
 
 ## Registration Link(s)
-1. Part 1 ***TBC***
+1. [Part 1](https://aka.ms/MCDCMasterclassP1-Reg)
 2. Part 2 ***TBC***
 
 ## Badges and how to claim
