@@ -8,9 +8,12 @@ Welcome to the Microsoft Defender for Cloud Masterclass repository.
 1. [Part 1](https://aka.ms/MCDCMasterclassP1-Reg)
 2. Part 2 ***TBC***
 
-## PDF Copies of Side Deck(s)
+## Event Presentation PDF(s)
  - [Main Slide Deck](Microsoft%20Defender%20for%20Cloud%20Masterclass%20-%20Part%201%20-%20Q4%20FY22.pdf)
  - [Automation Slides](MDC%20Automations%20-%20Preventing%20cyberattacks%20in%20real-time.pdf)
+
+## On Demand Recording ##
+*Registered attendees should be notified.*
 
 ## Badges and how to claim
 Silver – Complete cloud skills challenge **and** be registered for at least one Masterclass Event.
